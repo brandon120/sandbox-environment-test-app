@@ -315,7 +315,7 @@ function WelcomePage({ onContinue }: { onContinue: () => void }) {
       <section className="welcome-card">
         <div className="welcome-pill">Built for Railway teams</div>
         <p className="eyebrow">Welcome to Pulseboard</p>
-        <h1>Testing Branch</h1>
+        <h1>Testing Branch 🚀</h1>
         <p>
           Monitor revenue, customer signals, and deployment health from one command
           hub. Pulseboard ships with runnable data mocks, Railway manifests, and
