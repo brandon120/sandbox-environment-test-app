@@ -1,5 +1,7 @@
 # Pulseboard Dashboard
 
+adding to readme
+
 Command-center style dashboard built with Vite + React. It opens on a branded welcome screen and transitions into a revenue, customer-experience, and deployment control room designed to deploy cleanly on Railway.
 
 ## Features
